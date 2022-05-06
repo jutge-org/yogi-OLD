@@ -1,3 +1,5 @@
+![yogi.png](yogi.png)
+
 # `yogi`
 
 The `yogi` package offers a simple typed interface to read input in Python. It is built in order to offer beginners an easy way to read data and to provide static type checking. 
