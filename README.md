@@ -41,7 +41,7 @@ y = yogi.read(float)
 print(x * y)
 ```
 
-The `read` function expects that input is available and that its content maches the requested type. Otherwise, it raises an exception.
+The `read` function expects that input is available and that its content matches the requested type. Otherwise, it raises an exception.
 
 
 ## `scan`
