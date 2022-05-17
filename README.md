@@ -11,7 +11,7 @@ The `yogi` package offers a simple typed interface to read input in Python. It i
 - Upgrade to latest version with `pip3 install --upgrade yogi`.
 - Uninstall with `pip3 uninstall yogi`.
 
-Depending on the system you may to use `pip` rather than `pip3`.
+Depending on the system you may have to use `pip` rather than `pip3`.
 
 # Usage
 
@@ -92,7 +92,7 @@ read(int)        : int
 read(float)      : float
 read(str)        : str
 
-scan(int)         : Optional[int]
+scan(int)        : Optional[int]
 scan(float)      : Optional[float]
 scan(str)        : Optional[str]
 ```
