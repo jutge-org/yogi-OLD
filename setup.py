@@ -7,7 +7,7 @@ setup(
     name='yogi',
     packages=['yogi'],
     install_requires=[''],
-#    package_data={"yogi": ["yogi.pyi", "__init__.py"]},
+    package_data={"yogi": ["yogi.pyi", "__init__.py"]},
     version=version,
     description='Simple typed interface to read input in Python',
     long_description='Simple typed interface to read input in Python',
