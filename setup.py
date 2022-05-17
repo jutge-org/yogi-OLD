@@ -1,13 +1,13 @@
 from setuptools import setup
 
-version = '1.1.3'
+version = '1.1.6'
 
 
 setup(
     name='yogi',
     packages=['yogi'],
     install_requires=[''],
-    package_data={"yogi": ["yogi.pyi", "__init__.py"]},
+    package_data={"yogi": ["yogi.pyi"]},
     version=version,
     description='Simple typed interface to read input in Python',
     long_description='Simple typed interface to read input in Python',
